@@ -25,7 +25,7 @@
             "App\\": "app/",
             "Database\\Factories\\": "database/factories/",
             "Database\\Seeders\\": "database/seeders/",
-            "eyyubzademireli\\Laradox\\": "packages/eyyubzademireli/Laradox/src"
+            "eyyubzademireli\\laradox\\": "packages/eyyubzademireli/laradox/src"
         }
     },
     "autoload-dev": {
@@ -66,7 +66,7 @@
     "repositories": [
         {
             "type": "path",
-            "url": "packages/eyyubzademireli/Laradox"
+            "url": "packages/eyyubzademireli/laradox"
         }
     ]
 }
